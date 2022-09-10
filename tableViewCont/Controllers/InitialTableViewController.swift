@@ -12,7 +12,7 @@ class InitialTableViewController: UITableViewController {
     var tableViewData = [ ["General", "Accessibility", "Privacy"],
                           ["Passwords"],
                           ["Safari", "News"],
-                          ["Developer"]
+                          ["Developerr"]
                           
     ]
     override func viewDidLoad() {
